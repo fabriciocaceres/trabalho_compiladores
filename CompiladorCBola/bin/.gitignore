@@ -8,3 +8,6 @@
 /Token.java
 /TokenMgrError.java
 /cbola.jj
+/parser/
+/testeCompilador.jj
+/testeCompilador.jjt
